@@ -29,7 +29,7 @@ h5,
 h6 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  text-transform: uppercase; }
+  /*text-transform: uppercase;*/ }
 
 hr.star-light,
 hr.star-primary {
@@ -163,6 +163,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
+  background-image: url(img/portfolio/backgroundimg.jpg);
   background-color: rgba(24,188,156, 0.7); }
   header.masthead img {
     display: block;
@@ -181,7 +182,7 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     padding-top: 140px;
-    padding-bottom: 30px; }
+    padding-bottom: 60px; }
     header.masthead .intro-text .name {
       font-size: 1.75em; }
     header.masthead .intro-text .skills {
