@@ -170,7 +170,7 @@ section.success {
       font-size: 1.5em; } }
 
 header.masthead {
-  padding-top: 100px;
+  padding-top: 40px;
   padding-bottom: 50px;
   text-align: center;
   color: white;
@@ -191,7 +191,7 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 60px; }
     header.masthead .intro-text .name {
       font-size: 1.75em; }
